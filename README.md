@@ -1,0 +1,1 @@
+Analyis of FIFA22 dataset by performing multiple linear regression using statsmodel, training the regression using SckitLearn to predict a player's rank, using KNN analysis to classify players' "preferred foot", and creating natural clusters using KMeans
